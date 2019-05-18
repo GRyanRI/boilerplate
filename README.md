@@ -9,6 +9,8 @@ This boilerplate provides you the ability to:
   4. Bundle modules into JavaScript using webpack
   5. Creates index.html when webpack compiles using html-webpack-plugin
   
-  
-  npm -y init
-  command line: npx webpack
+command line: 
+ 1. npm -y init
+ 2. npm install
+ 3. node server/app.js
+ 4. npx webpack

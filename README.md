@@ -1,6 +1,6 @@
-# boilerplate
+# boilerplate (React, Node, Express)
 
-The boilerplate can be used to setup a React web app.
+The boilerplate can be used to setup a React web app with a Node / Express backend.
 
 This boilerplate provides you the ability to:
   1. Render React using react and react-dom
